@@ -1,4 +1,4 @@
-<img width="1618" height="1057" alt="image" src="https://github.com/user-attachments/assets/979fb3d9-9897-4162-9b4f-e072c3b0bcf8" />
+
 # 🏬 Super Store Sales Dashboard  
 
 🔗 **[Dashboard Link](https://app.powerbi.com/links/6cTM6Msjdb?ctid=20f04eaf-31a8-4701-b965-9be849057364&pbi_source=linkShare)**
