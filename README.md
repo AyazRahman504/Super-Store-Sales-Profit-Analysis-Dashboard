@@ -1,7 +1,7 @@
 
 # 🏬 Super Store Sales Dashboard  
 
-🔗 **[Dashboard Link](https://app.powerbi.com/reportEmbed?reportId=9e8a9cca-6695-43c5-8cd3-f1648be7c607&autoAuth=true&ctid=20f04eaf-31a8-4701-b965-9be849057364)**
+🔗 **[Dashboard Link](https://app.powerbi.com/links/6cTM6Msjdb?ctid=20f04eaf-31a8-4701-b965-9be849057364&pbi_source=linkShare)**
 
 ---
 
@@ -87,7 +87,7 @@ Total Orders = DISTINCTCOUNT(Sales[Order ID])
 ## 📷 Dashboard Snapshots  
 
 ### 📍 Main Dashboard (KPIs & Segment Analysis)  
-![Dashboard Overview](./Sales_Dashboard.png)  
+![Dashboard Overview](./Assets/Superstore Sales Dashboard.png)  
 
 ### 📍 Sales Forecasting  
 ![Sales Forecasting](./Sales_Forecasting.png)  
