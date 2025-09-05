@@ -1,4 +1,4 @@
-
+<img width="1618" height="1057" alt="image" src="https://github.com/user-attachments/assets/979fb3d9-9897-4162-9b4f-e072c3b0bcf8" />
 # 🏬 Super Store Sales Dashboard  
 
 🔗 **[Dashboard Link](https://app.powerbi.com/links/6cTM6Msjdb?ctid=20f04eaf-31a8-4701-b965-9be849057364&pbi_source=linkShare)**
@@ -87,13 +87,13 @@ Total Orders = DISTINCTCOUNT(Sales[Order ID])
 ## 📷 Dashboard Snapshots  
 
 ### 📍 Main Dashboard (KPIs & Segment Analysis)  
-![Dashboard Overview](./Assets/Superstore Sales Dashboard.png)  
+![Dashboard Overview](https://github.com/AyazRahman504/Super-Store-Sales-Profit-Analysis-Dashboard/blob/main/Assets/Superstore%20Sales%20Dashboard.png?raw=true)  
 
 ### 📍 Sales Forecasting  
-![Sales Forecasting](./Sales_Forecasting.png)  
+![Sales Forecasting](https://github.com/AyazRahman504/Super-Store-Sales-Profit-Analysis-Dashboard/blob/main/Assets/Sales%20Forecasting.png?raw=true)  
 
 ### 📍 Profit Forecasting  
-![Profit Forecasting](./Profit_Forecasting.png)  
+![Profit Forecasting](https://github.com/AyazRahman504/Super-Store-Sales-Profit-Analysis-Dashboard/blob/main/Assets/Profit%20Forecasting.png?raw=true)  
 
 ---
 
