@@ -28,7 +28,7 @@ Through **segment, category, and payment mode analysis**, management can make in
    - **Line Charts:** Monthly Sales & Profit Trends (2019–2020)  
    - **Bar Charts:** Sales by Category & Sub-Category, Sales by Ship Mode  
    - **Map Visual:** State-wise Sales and Profit distribution  
-10. **Forecasting:** Applied **Power BI forecasting** to Sales and Profit trends for 2021.  
+10. **Forecasting:** Applied **Power BI forecasting** to Sales and Profit trends for the upcoming January month of 2021. 
 
 ---
 
